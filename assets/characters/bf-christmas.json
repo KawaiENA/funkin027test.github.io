@@ -111,6 +111,8 @@
 			"name": "BF HEY"
 		}
 	],
+	"vocals_file": "bf-christmas",
+	"isPlayer": true,
 	"no_antialiasing": false,
 	"image": "characters/bfChristmas",
 	"position": [

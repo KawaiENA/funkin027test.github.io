@@ -1,5 +1,10 @@
 {
 	"song": {
+		"speed": 2.3,
+		"stage": "tank",
+		"player1": "bf",
+		"player2": "tankman",
+		"player3": null,
 		"events": [
 			[
 				9375,
@@ -112,6 +117,13 @@
 				]
 			]
 		],
-		"format": "psych_v1_convert"
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-tankmen",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ugh"
 	}
 }

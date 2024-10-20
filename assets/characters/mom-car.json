@@ -60,15 +60,15 @@
 				0,
 				0
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
 			"indices": [
 				10,
 				11,
 				12,
 				13
 			],
-			"fps": 24,
-			"anim": "idle-loop",
-			"loop": true,
 			"name": "Mom Idle"
 		},
 		{
@@ -76,15 +76,15 @@
 				250,
 				-23
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
 			"indices": [
 				6,
 				7,
 				8,
 				9
 			],
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"loop": true,
 			"name": "Mom Left Pose"
 		},
 		{
@@ -92,15 +92,15 @@
 				14,
 				71
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
 			"indices": [
 				11,
 				12,
 				13,
 				14
 			],
-			"fps": 24,
-			"anim": "singUP-loop",
-			"loop": true,
 			"name": "Mom Up Pose"
 		},
 		{
@@ -108,15 +108,15 @@
 				10,
 				-60
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
 			"indices": [
 				6,
 				7,
 				8,
 				9
 			],
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"loop": true,
 			"name": "Mom Pose Left"
 		},
 		{
@@ -124,35 +124,54 @@
 				20,
 				-160
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
 			"indices": [
 				11,
 				12,
 				13,
 				14
 			],
-			"fps": 24,
-			"anim": "singDOWN-loop",
-			"loop": true,
 			"name": "MOM DOWN POSE"
 		}
 	],
+	"vocals_file": "mom-car",
+	"losing_colors": [
+		216,
+		85,
+		142
+	],
+	"isPlayer": false,
 	"no_antialiasing": false,
 	"image": "characters/momCar",
+	"shake_duration": 0,
 	"position": [
 		0,
 		0
 	],
+	"health_drain": false,
+	"shake_intensity": 0,
 	"healthicon": "mom",
+	"shake_screen": false,
+	"drain_floor": 0,
 	"flip_x": false,
 	"healthbar_colors": [
 		216,
 		85,
 		142
 	],
+	"drain_amount": 0,
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		216,
+		85,
+		142
+	],
 	"scale": 1
 }
